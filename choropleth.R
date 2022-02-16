@@ -34,7 +34,7 @@ states_sf <- get_urbn_map("states", sf = TRUE)
 counties_sf <- get_urbn_map("counties", sf = TRUE)
 counties_sf$county_fips <- as.integer(counties_sf$county_fips)
 
-typeof(cranum$county_fips)
+typeof(lendnum$county_fips)
 typeof(counties_sf$county_fips)
 
 spatial_data_m <- left_join(counties_sf,
