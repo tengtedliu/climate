@@ -8,11 +8,12 @@ Agriculture is very vulnerable to the impact of climate change. While many have 
 ![](https://github.com/tengtedliu/climate/blob/main/graphics/map36.png)
 2. **Climate Change Impact is Significant** \
 ![](https://github.com/tengtedliu/climate/blob/main/graphics/margin3.png)
-
+3. **Climate Impact has Regional Heterogeneity** \
+![](https://github.com/tengtedliu/climate/blob/main/graphics/ers.png)
 ### Key Documents
-* `bank_data.pdf` describes the key steps in accessing such data, both for individual and bulk download
-* More documents and dataset forthcoming
-
+* `choropleth.R` describes how to make a choropleth in `R` (as in Figure 1)
+* `ERS_map.ipynb` describes how to make a choropleth based on categorical data in `Python`(as in Figure 3)
+* Research in progress; more results, documents, and datasets forthcoming
 
 ### Acknowledgement
 I am grateful for the financial support of the Food System Research Fund (FSRF) and Hammett Fellowship of University of California, Santa Cruz
